@@ -83,7 +83,7 @@ I'm interested in **backend engineering, full-stack development, thoughtful prod
 
 - 💼 LinkedIn: [Add your profile URL](https://www.linkedin.com/)
 - ✉️ Email: `icbjayasinghe@gmail.com`
-- 🌐 Portfolio: `https://isuru-portfolio-24.pages.dev/` _(optional)_
+- 🌐 Portfolio: `https://isuru-portfolio-24.pages.dev/` 
 
 <div align="center">
 

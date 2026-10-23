@@ -81,7 +81,7 @@ I'm a software engineer with **7+ years of experience** designing, building, and
 
 I'm interested in **backend engineering, full-stack development, thoughtful product ideas, and opportunities to collaborate**.
 
-- 💼 LinkedIn: [Add your profile URL](https://www.linkedin.com/)
+- 💼 LinkedIn: `https://www.linkedin.com/in/isuru-j/`
 - ✉️ Email: `icbjayasinghe@gmail.com`
 - 🌐 Portfolio: `https://isuru-portfolio-24.pages.dev/` 
 

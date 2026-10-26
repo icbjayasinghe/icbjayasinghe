@@ -70,12 +70,21 @@ I'm a software engineer with **7+ years of experience** designing, building, and
 ## 📊 GitHub activity
 
 <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username to activate these cards. -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icbjayasinghe&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icbjayasinghe&layout=compact&hide_border=true&theme=transparent" alt="Top languages" height="165" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=icbjayasinghe&show_icons=true&hide_border=true&theme=transparent" height="150" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=icbjayasinghe&hide_border=true&theme=transparent" height="150" alt="GitHub Streak" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icbjayasinghe&layout=compact&hide_border=true&theme=transparent" height="150" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-> GitHub activity cards depend on a third-party service and may occasionally be unavailable.
+<!-- > GitHub activity cards depend on a third-party service and may occasionally be unavailable. -->
 
 ## 🤝 Let's connect
 
